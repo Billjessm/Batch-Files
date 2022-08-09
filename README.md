@@ -7,5 +7,6 @@ Feel free to use and distribute these any way you see fit, just please credit me
 
 Thanks!
 
-Your's Truely
+Your's Truely,
+
 Billjessm
